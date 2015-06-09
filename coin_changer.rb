@@ -49,5 +49,5 @@ end # class
 
 convert = CoinChanger.new
 coins = []
-coins = convert.changer(79)
+coins = convert.changer(41)
 puts coins
